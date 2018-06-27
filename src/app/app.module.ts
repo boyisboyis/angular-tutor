@@ -9,7 +9,6 @@ import { PageTwoModule } from './pages/page-two/page-two.module';
 @NgModule({
   declarations: [
     AppComponent,
-   
   ],
   imports: [
     BrowserModule,

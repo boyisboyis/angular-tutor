@@ -14,6 +14,7 @@ const routers: Routes = [
   },
   {
     path: 'page-two',
+    // loadChildren: 'src/app/pages/page-two/page-two.module#PageTwoModule'
     component: PageTwoComponent
   },
   {
